@@ -2,11 +2,11 @@
 
 
 
-* `$@` -- 
-* `$^`
-* `$?`
-* `$+`
-* `$<`
+* `$@` -- the target 
+* `$^` -- all the prerequisites
+* `$?` --
+* `$+` 
+* `$<` -- the first prerequisite only
 * `$|`
 * `$*`
 
