@@ -28,7 +28,7 @@ main:
 
 Look into the `advanced` folder and look at the same code now reusing your scarce registers.
 
-``arm
+```arm
 /* -- sum02.s - */
 .global main
 .func main
