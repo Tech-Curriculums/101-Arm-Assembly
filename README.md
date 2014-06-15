@@ -9,4 +9,4 @@ Note this tutorial so far basically is just a reorganization of thinkingeek.com'
 
 I would definitely recommend checking those out (potentailly in tandem with this, since tested files are included for the hacking)
 
-[linkn to thinkingeek](http://thinkingeek.com/)
+[link to thinkingeek](http://thinkingeek.com/)
